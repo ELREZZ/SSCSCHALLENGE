@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P8 Old Footprint=RES New Footprint=Conn2x2.54
+Added Member To Class: ClassName=SSCS_Shematics Member=Component P4 Conn2
+Added Member To Class: ClassName=SSCS_Shematics Member=Component R1 RC1206FR-131RL
+Added Member To Class: ClassName=SSCS_Shematics Member=Component SW2 BOOTBtn

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P1 Old Footprint=MHDR1X2 New Footprint=61300811821
+Change Component Footprint: Designator=P5 Old Footprint=MHDR1X7 New Footprint=61300811821
+Add Component: Footprint Not Found SW_147873-1
+Add Component: Footprint Not Found SW_147873-1
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Class Member: Failed to add class member : Component SW1 BOOTBtn
+Add Class Member: Failed to add class member : Component SW2 ENBtn

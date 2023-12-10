@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "518821802367",
+    "firebase_url": "https://sscs-challenge-default-rtdb.firebaseio.com",
+    "project_id": "sscs-challenge",
+    "storage_bucket": "sscs-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518821802367:android:40dc678cfa7f56686d2a4a",
+        "android_client_info": {
+          "package_name": "com.thatproject.flutter_app_esp32_dust_sensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZ1PUeGw0e9wtLfdl_aVJlrSvkflBqS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
