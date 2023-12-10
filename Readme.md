@@ -1,3 +1,4 @@
+# Welcome to our challenge
 This is the repository of the IEEE ENETCOM SB SSCS Challenge Solution, includes the PCB Project Files, Schematics, BOM and Mobile Application files.
 
 The idea is to provide a connected, user friendly and portable Device that users can use it everywhere to continuously track PM concentration variations during the day and collect the positions that have High level of pm that have impacts on health and environment. So that we can understand the PM effects and identify the polluted areas.
@@ -7,13 +8,18 @@ Figma Link : https://www.figma.com/proto/DNSt179h4LZe5pDveEG5xY/SSCS-Challenge?t
 PDF Report Link: 
 https://drive.google.com/file/d/11JHWgoeEZgktFuuwM_QtaIk6NvQT4zlR/view?usp=sharing
 
-PCB Design
-<img src=”Images/PCB.png”>
+# PCB Design
+<div>
+  <img src="Images/PCB.png" alt="PCB DESIGN" width="1000">
+</div>
 
 
-Mobile Application
+# Mobile Application
+<div>
+  <img src="Images/MAppScreens.png" alt="PCB DESIGN" width="1000">
+</div>
 
-Technologies Used:
+# Technologies Used:
 Bluetooth Low Energy
 Flutter
 Firebase 
