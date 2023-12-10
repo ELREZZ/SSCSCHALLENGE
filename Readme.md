@@ -22,8 +22,8 @@ https://drive.google.com/file/d/11JHWgoeEZgktFuuwM_QtaIk6NvQT4zlR/view?usp=shari
 </div>
 
 # Technologies Used:
-Bluetooth Low Energy
-Flutter
-Firebase 
+- Bluetooth Low Energy  
+- Flutter  
+- Firebase  
 
 
