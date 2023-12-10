@@ -8,6 +8,8 @@ PDF Report Link:
 https://drive.google.com/file/d/11JHWgoeEZgktFuuwM_QtaIk6NvQT4zlR/view?usp=sharing
 
 PCB Design
+<img src=”Images/PCB.png”>
+
 
 Mobile Application
 
